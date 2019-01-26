@@ -1,0 +1,15 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "additionalContactPoint": {
+          "title": "additional contact point",
+          "description": "Representante legal",
+          "identifier": {
+            "$ref": "#/definitions/Identifier"
+          }
+        }
+      }
+    }
+  }
+}
