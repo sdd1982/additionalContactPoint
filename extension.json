@@ -1,11 +1,17 @@
 {
-	"name":{"en":"additionalContactPoint"},
-	"description":{"es":"Datos del representante legal de la entidad"},
-	"documentationUrl":{"es":"https://github.com/sdd1982/additionalContactPoint/blob/master/README.md"},
-	"schemas": [
-		"release-schema.json"
-	],
-	"compatibility": [
-		"1.1"
-	]
+  "name": {
+    "en": "additionalContactPoint"
+  },
+  "description": {
+    "es": "Datos del representante legal de la entidad"
+  },
+  "documentationUrl": {
+    "es": "https://github.com/sdd1982/additionalContactPoint/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
 }
