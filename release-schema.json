@@ -3,12 +3,12 @@
     "Organization": {
       "properties": {
         "additionalContactPoint": {
+          "title": "Puntos de contacto adicionales",
+          "description": "Puntos de contacto adicionales de la parte",
           "type": [
             "object",
             "null"
           ],
-          "description": "Puntos de contacto adicionales de la parte",
-          "title": "Puntos de contacto adicionales",
           "properties": {
             "identifier": {
               "ref": "#/definitions/Identifier"
