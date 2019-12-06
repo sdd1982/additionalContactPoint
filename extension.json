@@ -7,11 +7,5 @@
   },
   "documentationUrl": {
     "es": "https://github.com/sdd1982/additionalContactPoint/blob/master/README.md"
-  },
-  "schemas": [
-    "release-schema.json"
-  ],
-  "compatibility": [
-    "1.1"
-  ]
+  }
 }
