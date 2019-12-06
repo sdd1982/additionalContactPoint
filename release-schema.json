@@ -1,11 +1,13 @@
 {
   "definitions": {
-    "additionalContactPoint": {
+    "Organization": {
       "properties": {
-        "identifier": {
-          "title": "",
-          "description": "",
-          "$ref": "#/definitions/Identifier"
+        "additionalContactPoint": {  
+          "identifier": {
+            "title": "",
+            "description": "",
+            "$ref": "#/definitions/Identifier"
+          }
         }
       }
     }
