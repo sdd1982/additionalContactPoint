@@ -3,11 +3,9 @@
     "Organization": {
       "properties": {
         "additionalContactPoint": {  
-          "identifier": {
-            "title": "",
-            "description": "",
-            "$ref": "#/definitions/Identifier"
-          }
+          "description": "Puntos de contacto adicionales de la parte"
+          "title" : "additionalContactPoint"
+          "$ref": "#/definitions/Identifier"
         }
       }
     }
