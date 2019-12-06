@@ -1,6 +1,6 @@
 {
   "definitions": {
-    "ContactPoint": {
+    "additionalContactPoint": {
       "properties": {
         "identifier": {
           "title": "",
