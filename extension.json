@@ -8,6 +8,9 @@
   "documentationUrl": {
     "es": "https://github.com/sdd1982/additionalContactPoint/blob/master/README.md"
   },
+  "compatibility": [
+    "1.1"
+  ],
   "schemas": [
     "release-schema.json"
   ]
