@@ -5,8 +5,11 @@
         "additionalContactPoint": {
           "title": "Puntos de contacto adicionales",
           "description": "Puntos de contacto adicionales de la parte",
-          "identifier": {
-            "ref": "#/definitions/Identifier"
+          "type": "object",
+          "properties": {
+              "identifier": {
+                "ref": "#/definitions/Identifier"
+            }
           }
         }
       }
