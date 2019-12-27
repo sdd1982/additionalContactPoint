@@ -6,19 +6,29 @@
           "title": "Puntos de contacto adicionales",
           "description": "Puntos de contacto adicionales de la parte",
           "type": [
-            "object",
-            "null"
+            "object"
           ],
           "identifier": {
             "title": "identificador de puntos de contacto adicionales",
-            "scheme": {
-              "type": "string"
-            },
-			"id": {
-              "type": "string"
-            },
-            "legalName": {
-              "type": "string"
+            "properties": {
+              "id": {
+                "type": [
+                  "string",
+				  "null"
+                ]
+              },
+              "legalName": {
+                "type": [
+                  "string",
+				  "null"
+                ]
+              },
+              "scheme": {
+                "type": [
+                  "string",
+				  "null"
+                ]
+              }
             }
           }
         }
