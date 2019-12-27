@@ -11,7 +11,10 @@
           ],
           "identifier": {
             "title": "identificador de puntos de contacto adicionales",
-            "id": {
+            "scheme": {
+              "type": "string"
+            },
+			"id": {
               "type": "string"
             },
             "legalName": {
