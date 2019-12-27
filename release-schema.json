@@ -10,7 +10,7 @@
           ],
           "identifier": {
             "title": "identificador de puntos de contacto adicionales",
-			"type": "object"
+			"type": "object",
             "properties": {
               "id": {
                 "type": [
